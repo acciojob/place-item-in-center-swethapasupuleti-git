@@ -7,7 +7,7 @@
 	align-items: center;
 	
 }
-#item-1{
+.item-1{
 	background-color: red;
 	width: 100px;
 	height: 100px;
